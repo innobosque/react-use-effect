@@ -12,7 +12,7 @@ export const UseEffectApp = () => {
     return (
         <>
             <header>
-                <h1>UseEffectApp</h1>
+                <h1>useEffect</h1>
                 <p>Accepts a function that contains imperative, possibly effectful code.</p>
                 <p>Acepta una función que contiene código imperativo, posiblemente código efectivo.</p>
             </header>
